@@ -1,7 +1,7 @@
 <div align="center">
-👋 Olá! Eu sou Daniel Duarte<br>
-💻 Desenvolvedor Back-End Java | Estudante de Ciência da Computação<br>
-🚀 Apaixonado por tecnologia e em transição de carreira para tech. Foco em soluções escaláveis e código limpo.<br>
+👋 Olá! Eu sou Daniel Duarte
+💻 Desenvolvedor Back-End Java | Estudante de Ciência da Computação
+🚀 Apaixonado por tecnologia e em transição de carreira para tech. Foco em soluções escaláveis e código limpo.
 Mostrar Imagem
 Mostrar Imagem
 Mostrar Imagem
