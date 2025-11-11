@@ -10,14 +10,14 @@ Mostrar Imagem
 </div>
 <br>
 🎯 Sobre mim
-javascriptconst daniel = {
-    localização: "Montes Claros, MG 🇧🇷",
-    educação: "Ciência da Computação",
-    foco: "Desenvolvimento Back-End",
-    aprendendo: ["Arquitetura de Software", "Spring Boot", "APIs REST"],
-    objetivo: "Estágio em desenvolvimento back-end",
-    hobbies: ["Coding", "Resolver problemas", "Aprender novas tecnologias"]
-};
+
+📍 Localização: Montes Claros, MG - Brasil
+🎓 Educação: Ciência da Computação
+💼 Foco: Desenvolvimento Back-End
+📚 Aprendendo: Arquitetura de Software | Spring Boot | APIs REST
+🎯 Objetivo: Estágio em desenvolvimento back-end
+⚡ Transição de carreira com experiência em análise técnica e resolução de problemas
+
 <br>
 🛠️ Tech Stack
 Backend
