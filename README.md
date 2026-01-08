@@ -83,18 +83,6 @@ Foco em soluções escaláveis e código limpo
 
 ---
 
-## 💼 Experiência
-
-**🔧 Vistoriador de Veículos** @ Tech Vistorias  
-`2023 - Atual`  
-Análise técnica, atenção a detalhes, resolução de problemas
-
-**💻 Atendente Técnico** @ VGX Contact Center  
-`2022 - 2023`  
-Suporte técnico, sistemas digitais, troubleshooting
-
----
-
 <div align="center">
 
 ### 💡 *"Transformando problemas em soluções através do código"*
