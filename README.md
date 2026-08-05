@@ -1,8 +1,6 @@
 <div align="center">
 
-# Daniel Duarte
-
-### Desenvolvedor Full Stack
+# Desenvolvedor Full Stack
 
 Profissional com experiência em desenvolvimento de software e atuação em aplicações web, APIs e soluções full stack.
 
